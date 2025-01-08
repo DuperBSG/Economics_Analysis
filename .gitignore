@@ -1,0 +1,45 @@
+.env
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains IDEs (e.g., IntelliJ IDEA, PyCharm)
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+
+# Coverage reports (for testing tools)
+coverage/
+*.lcov
+
+# Dependencies
+package-lock.json
+
+# Environment variables
+.env
+
